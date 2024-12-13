@@ -6,7 +6,8 @@
 python boce.py 
 ```
 
-Example output&nbsp;&nbsp;
+Example output
+
 ![Example Layout for notification message in telegram](https://github.com/CarolasZC/BoceCheckDomain/blob/main/photo_2024-12-13_11-17-10.jpg)
 
 # Support Me
